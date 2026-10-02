@@ -8,5 +8,7 @@ int main(void)
      * seguito da una nuova riga.
      */
 
+  printf("Hello, computational physiscs\n");
+  
     return 0;
 }
